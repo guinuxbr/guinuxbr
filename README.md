@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme (a.k.a GuinuxBR)</h1>
+<h1 align="center">Hi 👋, I'm Guilherme (a.k.a. GuinuxBR)</h1>
 <h3 align="center">System Administrator and Junior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr" alt="guinuxbr" /> </p>
