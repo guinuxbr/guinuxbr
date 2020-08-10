@@ -27,7 +27,7 @@
 
 - 📫 How to reach me
 <p align="center">
-<a href="guinuxbr@gmail.com" target="_blank">
+<a href="mailto:guinuxbr@gmail.com" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="guinuxbr" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/gllmarques" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gllmarques" height="30" width="30" /></a>
