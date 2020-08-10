@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
+<h1 align="center">Hi 👋, I'm Guilherme (a.k.a GuinuxBR)</h1>
 <h3 align="center">System Administrator and Junior Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr" alt="guinuxbr" /> </p>
@@ -28,9 +28,9 @@
 </p>
 
 <p align="center">
-<a href="https://dev.to/guinuxbr" target="blank">
+<a href="https://dev.to/guinuxbr" target="_blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="guinuxbr" height="30" width="30" /></a>
 <a href="https://twitter.com/guinuxbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guinuxbr" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/gllmarques" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gllmarques" height="30" width="30" /></a>
-<a href="https://instagram.com/guinuxbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guinuxbr" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/gllmarques" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gllmarques" height="30" width="30" /></a>
+<a href="https://instagram.com/guinuxbr" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guinuxbr" height="30" width="30" /></a>
 </p>
