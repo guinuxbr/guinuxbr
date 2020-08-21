@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guilherme (a.k.a. GuinuxBR)</h1>
 <h3 align="center">System Administrator and Junior Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr" alt="guinuxbr" /> </p>
-
 - 🌱 I’m currently learning **Sofware Development**
 
 - 👨‍💻 All of my projects are available here in my [GitHub](https://github.com/guinuxbr)
@@ -37,6 +35,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guinuxbr&show_icons=true" alt="guinuxbr" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr" alt="guinuxbr" /> </p>
 - 📫 How to reach me
 <p align="center">
 <a href="mailto:guinuxbr@gmail.com" target="_blank">
