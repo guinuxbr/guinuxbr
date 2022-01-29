@@ -24,10 +24,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Vim Cheat Sheet](https://dev.to/guinuxbr/vim-cheat-sheet-5b6b)
-- [Run Debian in Windows 10 with WSL 2](https://dev.to/guinuxbr/run-debian-in-windows-10-with-wsl-2-3dkf)
-- [Increase productivity in terminal with Zsh, Oh-My-Zsh and Starship](https://dev.to/guinuxbr/increase-productivity-in-terminal-with-zsh-oh-my-zsh-and-starship-8ap)
-- [Convert OVA to QCOW2](https://dev.to/guinuxbr/convert-ova-to-qcow2-48f2)
+- [Backup dotfiles to GitHub](https://guinuxbr.com/en/posts/backup-and-restore-dot-files/)
+- [Vim Cheat Sheet](https://guinuxbr.com/en/posts/vim-cheat-sheet/)
+- [Secure GitHub credentials with KWallet](https://guinuxbr.com/en/posts/secure-git-credentials-kwallet/)
+- [Sort Linux partitions correctly](https://guinuxbr.com/en/posts/sort-linux-partitions-correctly/)
+- [Run Debian in Windows 10 with WSL 2](https://guinuxbr.com/en/posts/debian-windows10-wsl2/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
