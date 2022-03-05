@@ -24,11 +24,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Raspberry Pi4 + openSUSE + Samba](https://guinuxbr.com/en/posts/raspberry_pi4+opensuse+samba/)
 - [Backup dotfiles to GitHub](https://guinuxbr.com/en/posts/backup-and-restore-dot-files/)
 - [Vim Cheat Sheet](https://guinuxbr.com/en/posts/vim-cheat-sheet/)
 - [Secure GitHub credentials with KWallet](https://guinuxbr.com/en/posts/secure-git-credentials-kwallet/)
 - [Sort Linux partitions correctly](https://guinuxbr.com/en/posts/sort-linux-partitions-correctly/)
-- [Run Debian in Windows 10 with WSL 2](https://guinuxbr.com/en/posts/debian-windows10-wsl2/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
