@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Linux and technology**
 
-- ⚡ Fun fact **Coffee ☕, soccer ⚽, and Heavy Metal lover 🤘**
+- ⚡ Fun fact: **Coffee ☕, football (or soccer 🙂) ⚽, and Heavy Metal lover 🤘**
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/linux-icon.svg" alt="linux" width="40" height="40"/> 
