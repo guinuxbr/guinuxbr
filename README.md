@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Guilherme (a.k.a. GuinuxBR)</h1>
 <h3 align="center">System Administrator and Junior Developer</h3>
 
+## System Administrator and Junior Developer
+
 - 🌱 I’m currently learning **Sofware Development**
 
 - 👨‍💻 All of my projects are available here in my [GitHub](https://github.com/guinuxbr)
@@ -22,7 +24,7 @@
   <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
 
-### Blogs posts
+## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Load SSH keys via Kwallet](https://guinuxbr.com/en/posts/load-ssh-keys-kwallet/)
 - [Raspberry Pi4 + openSUSE + Samba](https://guinuxbr.com/en/posts/raspberry_pi4+opensuse+samba/)
@@ -39,16 +41,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr&label=Profile%20views&color=0e75b6&style=flat" alt="guinuxbr" /> </p>
 
-- 📫 How to reach me
-<p align="center">
-<a href="mailto:guinuxbr@gmail.com" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="guinuxbr" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/gllmarques" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gllmarques" height="30" width="30" /></a>
-<a href="https://dev.to/guinuxbr" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="guinuxbr" height="30" width="30" /></a>
-<a href="https://twitter.com/guinuxbr" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="guinuxbr" height="30" width="30" /></a>
-<a href="https://instagram.com/guinuxbr" target="_blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="guinuxbr" height="30" width="30" /></a>
-</p>
+## 📫 Connect with me
+
+<a href="https://linkedin.com/in/gllmarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gllmarques" height="30" width="40" /></a>
+<a href="https://twitter.com/guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guinuxbr" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="guinuxbr" height="30" width="40" /></a>
+<a href="https://hashnode.com/@guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@guinuxbr" height="30" width="40" /></a>
+<a href="https://dev.to/guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guinuxbr" height="30" width="40" /></a>
+<a href="/https://guinuxbr.com/en/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://guinuxbr.com/en/rss.xml" height="30" width="40" /></a>
