@@ -37,7 +37,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guinuxbr&show_icons=true" alt="guinuxbr" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr" alt="guinuxbr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr&label=Profile%20views&color=0e75b6&style=flat" alt="guinuxbr" /> </p>
+
 - 📫 How to reach me
 <p align="center">
 <a href="mailto:guinuxbr@gmail.com" target="_blank">
