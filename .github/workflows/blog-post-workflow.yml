@@ -16,4 +16,4 @@ jobs:
       - name: Pull in guinuxbr.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://guinuxbr.com/en/rss.xml"
+          feed_list: "https://guinuxbr.com/index.xml"
