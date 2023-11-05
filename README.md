@@ -26,11 +26,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Check Certificate Info](https://guinuxbr.com/check-certificate-info/)
-- [Load SSH keys via Kwallet](https://guinuxbr.com/load-ssh-keys-kwallet/)
-- [Raspberry Pi 4 + openSUSE + Samba](https://guinuxbr.com/raspberry_pi4-opensuse-samba/)
-- [Backup dotfiles to GitHub](https://guinuxbr.com/backup-and-restore-dot-files/)
-- [Vim Cheat Sheet](https://guinuxbr.com/vim-cheat-sheet/)
+- [Check for Ghost Files in Linux](https://guinuxbr.com/check-for-ghost-files-in-linux/)
+- [Check SSL Certificate Info](https://guinuxbr.com/check-ssl-certificate-info/)
+- [Load SSH keys via KDE Plasma Kwallet](https://guinuxbr.com/load-ssh-keys-via-kde-plasma-kwallet/)
+- [Raspberry Pi 4 + openSUSE + Samba](https://guinuxbr.com/raspberry-pi4-opensuse-samba/)
+- [Backup and Restore dotfiles using Git](https://guinuxbr.com/backup-and-restore-dotfiles-using-git/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
