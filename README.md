@@ -26,11 +26,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Check for Ghost Files in Linux](https://guinuxbr.com/check-for-ghost-files-in-linux/)
-- [Check SSL Certificate Info](https://guinuxbr.com/check-ssl-certificate-info/)
-- [Load SSH keys via KDE Plasma Kwallet](https://guinuxbr.com/load-ssh-keys-via-kde-plasma-kwallet/)
-- [Raspberry Pi 4 + openSUSE + Samba](https://guinuxbr.com/raspberry-pi4-opensuse-samba/)
-- [Backup and Restore dotfiles using Git](https://guinuxbr.com/backup-and-restore-dotfiles-using-git/)
+- [CUSTOM LOGROTATE RULES ALONGSIDE SYSTEM-WIDE CONFIGURATION](https://guinuxbr.com/custom-logrotate-rules-alongside-system-wide-configuration/)
+- [CHECK FOR GHOST FILES IN LINUX](https://guinuxbr.com/check-for-ghost-files-in-linux/)
+- [CHECK SSL CERTIFICATE INFO](https://guinuxbr.com/check-ssl-certificate-info/)
+- [LOAD SSH KEYS VIA KDE PLASMA KWALLET](https://guinuxbr.com/load-ssh-keys-via-kde-plasma-kwallet/)
+- [RASPBERRY PI 4 + OPENSUSE + SAMBA](https://guinuxbr.com/raspberry-pi4-opensuse-samba/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
