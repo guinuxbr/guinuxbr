@@ -26,11 +26,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [LIST FILES WITHIN GZIP](https://guinuxbr.com/list-files-within-gzip/)
 - [LINUX, HOW TO FIND FILES BY AGE](https://guinuxbr.com/linux-how-to-find-files-by-age/)
 - [FIND LINUX BROKEN SYMLINKS](https://guinuxbr.com/find-linux-broken-symlinks/)
 - [CUSTOM LOGROTATE RULES ALONGSIDE SYSTEM-WIDE CONFIGURATION](https://guinuxbr.com/custom-logrotate-rules-alongside-system-wide-configuration/)
 - [CHECK FOR GHOST FILES IN LINUX](https://guinuxbr.com/check-for-ghost-files-in-linux/)
-- [CHECK SSL CERTIFICATE INFO](https://guinuxbr.com/check-ssl-certificate-info/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
