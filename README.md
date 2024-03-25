@@ -26,11 +26,11 @@
 
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [POWERSHELL TEST NET CONNECTION](https://guinuxbr.com/powershell-test-net-connection/)
+- [POWERSHELL HANDLE FILE CONTENTS](https://guinuxbr.com/powershell-handle-file-contents/)
 - [DOCKER 101 - BASIC COMMANDS](https://guinuxbr.com/docker-basic-commands/)
 - [DOCKER 101](https://guinuxbr.com/docker-101/)
 - [LIST FILES WITHIN GZIP](https://guinuxbr.com/list-files-within-gzip/)
-- [LINUX, HOW TO FIND FILES BY AGE](https://guinuxbr.com/linux-how-to-find-files-by-age/)
-- [FIND LINUX BROKEN SYMLINKS](https://guinuxbr.com/find-linux-broken-symlinks/)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="center">
