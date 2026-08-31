@@ -1,0 +1,6 @@
+# Cache directories
+.rumdl_cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db

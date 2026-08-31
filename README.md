@@ -1,30 +1,54 @@
-<h1 align="center">Hi 👋, I'm Guilherme (a.k.a. GuinuxBR)</h1>
-<h3 align="center">System Administrator and Junior Developer</h3>
+# Hi 👋, I'm Guilherme (GuinuxBR)
 
-## System Administrator and Junior Developer
+## DevOps Engineer | Cloud & Infrastructure Enthusiast | Linux Advocate
 
-- 🌱 I’m currently learning **Sofware Development**
+[![Website](https://img.shields.io/badge/Website-guinuxbr.com-0ea5e9?style=flat-square&logo=google-chrome&logoColor=white)](https://guinuxbr.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Marques-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gllmarques)
+[![GitHub](https://img.shields.io/badge/GitHub-guinuxbr-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/guinuxbr)
+[![RSS Feed](https://img.shields.io/badge/RSS-Feed-FFA500?style=flat-square&logo=rss&logoColor=white)](https://guinuxbr.com/en/rss.xml)
 
-- 👨‍💻 All of my projects are available here in my [GitHub](https://github.com/guinuxbr)
+---
 
-- 📝 I regularly write articles on [https://guinuxbr.com](https://guinuxbr.com)
+## 👨‍💻 About Me
 
-- 💬 Ask me about **Linux and technology**
+- 🚀 Currently working as a **DevOps Engineer**, focusing on CI/CD automation, cloud infrastructure, containerization,
+  and system reliability.
+- 🐧 Passionate about **Linux**, open-source software, and Infrastructure as Code (IaC).
+- 📝 Sometimes I write technical articles and tutorials on [guinuxbr.com](https://guinuxbr.com).
+- 💬 Ask me about **Linux, DevOps, Containers, and Automation**.
+- ⚡ Fun fact: **Coffee ☕, football ⚽, and Heavy Metal 🤘 lover.**
 
-- ⚡ Fun fact: **Coffee ☕, football (or soccer 🙂) ⚽, and Heavy Metal lover 🤘**
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/linux-icon.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/w3_html5-icon.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/css3-icon.svg" alt="css3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/python-icon.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/docker-icon.svg" alt="docker" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/guinuxbr/guinuxbr/master/img/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-</p>
+### 🛠️ Tech Stack & Tooling
 
-## Blogs posts
+#### Cloud, Containers & Infrastructure
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.kernel.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+#### CI/CD & Automation
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+[![Harness](https://img.shields.io/badge/Harness-00ADE4?style=flat-square&logo=harness&logoColor=white)](https://www.harness.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)](https://www.ansible.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+
+#### Scripting & Languages
+
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://microsoft.com/powershell)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+---
+
+### ✍️ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [POWERSHELL TEST NET CONNECTION](https://guinuxbr.com/powershell-test-net-connection/)
 - [POWERSHELL HANDLE FILE CONTENTS](https://guinuxbr.com/powershell-handle-file-contents/)
@@ -33,19 +57,13 @@
 - [LIST FILES WITHIN GZIP](https://guinuxbr.com/list-files-within-gzip/)
 <!-- BLOG-POST-LIST:END -->
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guinuxbr&layout=compact&hide=html" alt="guinuxbr" />
+---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=guinuxbr&show_icons=true" alt="guinuxbr" />
-</p>
+### 📫 Connect With Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guinuxbr&label=Profile%20views&color=0e75b6&style=flat" alt="guinuxbr" /> </p>
-
-## 📫 Connect with me
-
-<a href="https://linkedin.com/in/gllmarques" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gllmarques" height="30" width="40" /></a>
-<a href="https://twitter.com/guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guinuxbr" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="guinuxbr" height="30" width="40" /></a>
-<a href="https://hashnode.com/@guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@guinuxbr" height="30" width="40" /></a>
-<a href="https://dev.to/guinuxbr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="guinuxbr" height="30" width="40" /></a>
-<a href="/https://guinuxbr.com/en/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://guinuxbr.com/en/rss.xml" height="30" width="40" /></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gllmarques)
+[![Website](https://img.shields.io/badge/Blog-10B981?style=for-the-badge&logo=hashnode&logoColor=white)](https://guinuxbr.com)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/guinuxbr)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@guinuxbr)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/guinuxbr)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/guinuxbr)
